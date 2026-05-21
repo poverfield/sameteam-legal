@@ -130,7 +130,7 @@ If any part of these Terms is found unenforceable, the rest stays in effect.
 
 Questions about these Terms? Email us at:
 
-**support@sameteam.app**
+**sameteam.support@gmail.com**
 
 We read every message and respond within a few business days.
 
