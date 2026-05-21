@@ -65,7 +65,8 @@ We do **not** sell, rent, or trade your personal information.
 
 ## Your Rights
 
-- **Delete your account**: You can sign out and request account deletion by contacting us at support@sameteam.app. We will delete your profile and disassociate your data.
+- **Delete your account**: You can sign out and request account deletion by contacting us at sameteam.support@gmail.com
+. We will delete your profile and disassociate your data.
 - **Access your data**: Contact us to request a copy of the data we store about you.
 - **Leave a household**: Signing out removes your access to household data.
 
@@ -84,4 +85,4 @@ We may update this policy from time to time. The "Last updated" date at the top 
 ## Contact
 
 For privacy questions or data requests:
-- Email: support@sameteam.app
+- Email: sameteam.support@gmail.com
