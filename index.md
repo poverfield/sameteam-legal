@@ -76,7 +76,7 @@ Same Team is not intended for children under 13. We do not knowingly collect dat
 
 ## Subscriptions
 
-Same Team offers an optional monthly subscription. Subscription purchases are processed by Apple and subject to Apple's terms. We do not store payment information — all billing is handled by the App Store.
+After a 30-day free trial, Same Team offers two subscription options: monthly and annual. Subscription purchases are processed by Apple and subject to Apple's terms. We do not store payment information. All billing is handled by the App Store.
 
 ## Changes to This Policy
 
