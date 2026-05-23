@@ -34,7 +34,7 @@ You can delete your account at any time from inside the app. Deleting your accou
 
 ## 4. Subscription terms
 
-Same Team is free to use for the first **1 month** after you create your account. No payment information is required to start.
+Same Team is free to use for the first **30 days** after you create your account. No payment information is required to start.
 
 After the trial period, continued access requires an active subscription. Current pricing:
 
