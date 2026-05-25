@@ -39,7 +39,7 @@ Same Team is free to use for the first **30 days** after you create your account
 After the trial period, continued access requires an active subscription. Current pricing:
 
 - **Monthly:** $2.99 per user, billed monthly through your Apple ID
-- **Annual:** $24 per user per year, billed annually through your Apple ID
+- **Annual:** $24.99 per user per year, billed annually through your Apple ID
 
 Each user in a household subscribes individually. Prices may vary outside the United States based on Apple's regional price tiers.
 
