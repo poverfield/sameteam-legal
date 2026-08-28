@@ -10,7 +10,7 @@ Midva ("we", "our", "the app") is a household management app for couples. We res
 
 ### Account Information
 - **Name**: Your display name, entered during setup. Used to identify you to your partner within the app.
-- **Apple ID email**: Collected via Sign in with Apple. Used for authentication only. We receive only the email you choose to share (which may be Apple's private relay address).
+- **Email address**: Collected when you create an account, via Sign in with Apple or email sign-up. Used for authentication only. If you use Sign in with Apple, we receive only the email you choose to share (which may be Apple's private relay address).
 - **User ID**: A unique identifier assigned to your account. Used to associate your data with your profile.
 
 ### Household Data
@@ -24,12 +24,12 @@ When you use Midva, you create and share data with your partner within a househo
 This data is stored in your household and visible to both partners. It is not shared with anyone outside your household.
 
 ### Analytics Data
-We use PostHog to collect anonymous usage analytics:
+We use PostHog to collect usage analytics:
 - Screen views and feature usage (e.g., which tabs are visited, how often Weekly Sync is used)
 - Error events (to diagnose and fix bugs)
-- Session replays (anonymized, to understand app usage patterns)
+- Session replays (to understand app usage patterns)
 
-Analytics data is **not linked to your identity** and is used solely to improve the app experience.
+Analytics data is associated with your account's user ID so we can diagnose issues. It is never sold or shared, and is used solely to improve the app experience.
 
 ### Data We Do NOT Collect
 - Location data
@@ -42,8 +42,8 @@ Analytics data is **not linked to your identity** and is used solely to improve 
 ## How We Use Your Data
 
 - **App functionality**: To provide shared household features between you and your partner
-- **Authentication**: To verify your identity via Apple Sign-In
-- **Analytics**: To understand usage patterns and improve the app (anonymized)
+- **Authentication**: To verify your identity when you sign in
+- **Analytics**: To understand usage patterns and improve the app
 - **Notifications**: To notify your partner when you add or change shared items
 
 We do **not** use your data for advertising, sell it to third parties, or share it with data brokers.
@@ -65,8 +65,7 @@ We do **not** sell, rent, or trade your personal information.
 
 ## Your Rights
 
-- **Delete your account**: You can sign out and request account deletion by contacting us at sameteam.support@gmail.com
-. We will delete your profile and disassociate your data.
+- **Delete your account**: You can delete your account from inside the app (Settings → Delete Account), or request deletion by contacting us at sameteam.support@gmail.com. We will delete your profile and disassociate your data.
 - **Access your data**: Contact us to request a copy of the data we store about you.
 - **Leave a household**: Signing out removes your access to household data.
 
