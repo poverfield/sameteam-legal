@@ -16,7 +16,7 @@ Midva is designed for two adults sharing a household.
 
 ## 2. Your account
 
-You sign in to Midva using Sign in with Apple. Apple handles your credentials; we never see your password.
+You sign in to Midva using Sign in with Apple or with your email address and a password. If you use Sign in with Apple, Apple handles your credentials and we never see your password.
 
 You're responsible for any activity that happens under your account. If you suspect someone else is using it, contact us right away.
 
@@ -28,9 +28,13 @@ You can delete your account at any time from inside the app. Deleting your accou
 
 **Shared with your partner.** When you join or create a household, the data inside that household is visible to both members. If you leave a household, your access to its shared data ends. Data already created by your partner stays with them.
 
-**We don't sell your data.** Not to advertisers, not to data brokers, not to anyone. See our [Privacy Policy](https://sameteam.app/privacy) for details on what we collect and how it's used.
+**We don't sell your data.** Not to advertisers, not to data brokers, not to anyone. See our [Privacy Policy](https://poverfield.github.io/sameteam-legal/) for details on what we collect and how it's used.
 
 **Data export and deletion.** You can request a copy of your data or full deletion by emailing us. We'll respond within 30 days.
+
+## 4. Price
+
+Midva is currently free to use. If we introduce paid features in the future, we'll update these Terms and give you notice in the app.
 
 ## 5. Acceptable use
 
