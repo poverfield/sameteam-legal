@@ -1,10 +1,10 @@
-# Same Team — Privacy Policy
+# Midva — Privacy Policy
 
-**Last updated: March 27, 2026**
+**Last updated: August 27, 2026**
 
 ## Overview
 
-Same Team ("we", "our", "the app") is a household management app for couples. We respect your privacy and are committed to protecting your personal data. This policy explains what data we collect, how we use it, and your rights.
+Midva ("we", "our", "the app") is a household management app for couples. We respect your privacy and are committed to protecting your personal data. This policy explains what data we collect, how we use it, and your rights.
 
 ## Data We Collect
 
@@ -14,7 +14,7 @@ Same Team ("we", "our", "the app") is a household management app for couples. We
 - **User ID**: A unique identifier assigned to your account. Used to associate your data with your profile.
 
 ### Household Data
-When you use Same Team, you create and share data with your partner within a household:
+When you use Midva, you create and share data with your partner within a household:
 - Schedule events, meal plans, and grocery lists
 - Expenses and financial splits
 - Tasks (Radar) and conversation notes (Write That Down)
@@ -72,11 +72,7 @@ We do **not** sell, rent, or trade your personal information.
 
 ## Children's Privacy
 
-Same Team is not intended for children under 13. We do not knowingly collect data from children.
-
-## Subscriptions
-
-After a 30-day free trial, Same Team offers two subscription options: monthly and annual. Subscription purchases are processed by Apple and subject to Apple's terms. We do not store payment information. All billing is handled by the App Store.
+Midva is not intended for children under 13. We do not knowingly collect data from children.
 
 ## Changes to This Policy
 
@@ -84,5 +80,4 @@ We may update this policy from time to time. The "Last updated" date at the top 
 
 ## Contact
 
-For privacy questions or data requests:
-- Email: sameteam.support@gmail.com
+For support questions email sameteam.support@gmail.com
